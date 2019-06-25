@@ -1,0 +1,4 @@
+1) mvn package project
+2) pass BootWar.war to TomCat/webapps
+3) catalina.bat run
+4) http://localhost:8088/BootWar/hello
